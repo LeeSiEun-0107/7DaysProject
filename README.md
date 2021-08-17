@@ -22,7 +22,7 @@ Chapter14. 정렬 문제
 Chapter15. 이진 탐색 문제  
 Chapter16. 다이나믹 프로그래밍 문제  
 Chapter17. 최단 경로 문제  
-Chapter18. 그래프 이론 문제  
+Chapter18. 그래프 이론 문제   
 11~18까지는 매일 한문제씩 풀어보기 총 45문제  
 
 # Schedule
