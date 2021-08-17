@@ -13,7 +13,7 @@ Chapter6. 정렬
 Chapter7. 이진탐색  
 Chapter8. 다이나믹 프로그래밍  
 Chatper9. 최단 경로  
-Chapter10. 그래프 이론   
+Chapter10. 그래프 이론  
 24일까지 완독  
 Chapter11. 그리디 문제  
 Chapter12. 구현 문제  
@@ -23,7 +23,7 @@ Chapter15. 이진 탐색 문제
 Chapter16. 다이나믹 프로그래밍 문제  
 Chapter17. 최단 경로 문제  
 Chapter18. 그래프 이론 문제  
-11~18까지는 매일 한문제씩 풀어보기 총 45문제
+11~18까지는 매일 한문제씩 풀어보기 총 45문제  
 
 # Schedule
 |일자|내용|
