@@ -12,7 +12,7 @@ for i in range(n):
 #재귀함수 dfs 정의
 def dfs(x,y):
   #범위에 벗어나면 False 반환
-  if x<=-1 or x>=n or y<=1 or y>=m:
+  if x<=-1 or x>=n or y<=-1 or y>=m:
     return False
   # 해당 원소가 구멍인 경우
   if graph[x][y]==0:
