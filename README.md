@@ -4,7 +4,9 @@ based on book『This is coding test for getting a job』
 단원 별 문제를 풀고 책의 해답과 비교해 보며 좋은 알고리즘에 대해 고찰한다.
 
 # notion
+심화 문제 학습
 https://kiwi-sunshine-43e.notion.site/2021-09-2021-12-c5bc0da87014413a9111162ebe2699ef
+기초 개념 및 문제 학습
 https://kiwi-sunshine-43e.notion.site/2021-12-30-2021-2-6-4b319d4f5e88426a8fe23699edddcf1b
 
 # Contents
