@@ -3,6 +3,10 @@ Basic python grammar learning and coding problem solving
 based on book『This is coding test for getting a job』  
 단원 별 문제를 풀고 책의 해답과 비교해 보며 좋은 알고리즘에 대해 고찰한다.
 
+# notion
+https://kiwi-sunshine-43e.notion.site/2021-09-2021-12-c5bc0da87014413a9111162ebe2699ef
+https://kiwi-sunshine-43e.notion.site/2021-12-30-2021-2-6-4b319d4f5e88426a8fe23699edddcf1b
+
 # Contents
 Chapter1. 코딩테스트 개요  
 Chatper2. 16~20년 코딩 테스트 기출 유형 분석  
